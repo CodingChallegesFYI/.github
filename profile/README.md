@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to CodingChallengesFYI!
+Welcome to Coding Challenges!
 
 The home of [CodingChallenges.fyi](https://codingchallenges.fyi) - Helping you become a better software engineer through coding challenges that build real applications.
 
